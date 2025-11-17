@@ -1,11 +1,12 @@
 # Lab 01: Mapping Cyber Threat & Attacks
 
 ## 🔗 Sources
-- **Unit 42 – Palo Alto Networks:** *Fashionable Phishing Bait: GenAI on the Hook (2025)*
+- [**Unit 42 – Palo Alto Networks:** *Fashionable Phishing Bait: GenAI on the Hook (2025)*](https://unit42.paloaltonetworks.com/genai-phishing-bait/)
+
 
 ---
 
-## 📝 Description and Schema
+## 📝 Description 
 
 Threat actors are exploiting Generative AI (GenAI) platforms to quickly create and publish phishing pages. Using AI-powered website builders and writing assistants, attackers can generate realistic, brand-like websites within seconds and host them on legitimate services with no verification. This greatly increases the scale and efficiency of phishing operations.
 
@@ -35,13 +36,6 @@ The attack pattern typically involves:
 | Command & Control | Web Services | Leveraging legitimate AI/SaaS platforms as staging points | T1102 | Using trusted platforms as delivery and hosting channels |
 | Impact / Exfiltration | Exfiltration Over Web Services | Exfiltration of stolen credentials through hosted pages | T1567 | Credentials exfiltrated through AI-generated phishing sites |
 
+---
 
-
-flowchart TD
-
-    A[Threat Actor<br/>Uses GenAI tools] --> B[Generate Phishing Website]
-    B --> C[Lure Victim]
-    C --> D[Redirect to Malicious Page]
-    D --> E[Credential Theft]
-    E --> F[Follow-On Actions]
-
+## Sבי
