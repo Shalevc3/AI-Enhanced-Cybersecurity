@@ -8,7 +8,7 @@ For official course documentation and reference materials, please refer to the m
 
 ---
 
-## ✒️ Authors / Contributors
+## ✒️ Authors 
 
 - **[Shalev Cohen]** — [GitHub](https://github.com/Shalevc3) 
 - **[Noam Hadad]** — [GitHub](#) 
