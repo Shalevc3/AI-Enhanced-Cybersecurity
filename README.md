@@ -11,12 +11,8 @@ For official course documentation and reference materials, please refer to the m
 
 ## ✒️ Authors / Contributors
 
-- **[Name 1]** — [GitHub](#) | [LinkedIn](#)  
-- **[Name 2]** — [GitHub](#) | [LinkedIn](#)  
-- **[Name 3]** — [GitHub](#) | [LinkedIn](#)  
-- **[Name 4]** — [GitHub](#) | [LinkedIn](#)
-
-_(Fill in or remove names as needed.)_
+- **[Shalev Cohen]** — [GitHub](https://github.com/Shalevc3) 
+- **[Name 2]** — [GitHub](#) 
 
 ---
 
@@ -46,10 +42,9 @@ These exercises build knowledge and skills applicable to SOC, CTI, and AI-enhanc
 
 | Lab | Assignment | Solution | Topic | Description |
 |-----|-----------|----------|--------|-------------|
-| **1** | Lab1 Assignment | [Lab1](Labs/Lab1/) | CTI → MITRE ATT&CK Mapping | Choose a real CTI report, extract attacker behaviors, and map them to ATT&CK tactics & techniques. |
-| **2** | Lab2 Assignment | [Lab2](Labs/Lab2/) | *(To be added)* | *(To be added)* |
+| **1** | Lab1 Assignment | [Lab01](Labs/Lab1/) | CTI → MITRE ATT&CK Mapping | Choose a real CTI report, extract attacker behaviors, and map them to ATT&CK tactics & techniques. |
+| **2** | Lab2 Assignment | [Lab02](Labs/Lab2/) | *(To be added)* | *(To be added)* |
 
 ---
 
-## 📂 Repository Structure
 
