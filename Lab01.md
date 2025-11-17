@@ -35,3 +35,18 @@ The attack pattern typically involves:
 | Command & Control | Web Services | Leveraging legitimate AI/SaaS platforms as staging points | T1102 | Using trusted platforms as delivery and hosting channels |
 | Impact / Exfiltration | Exfiltration Over Web Services | Exfiltration of stolen credentials through hosted pages | T1567 | Credentials exfiltrated through AI-generated phishing sites |
 
+
+
+flowchart TD
+
+    A[Threat Actor<br>Uses GenAI tools<br>(AI website builders, writing assistants)]
+    --> B[Generate Phishing Website<br>- AI-built pages in seconds<br>- Brand-like text & images<br>- Hosted on legitimate platforms]
+
+    B --> C[Lure Victim<br>- “View Document” / “Show Coupon” buttons<br>- Links appear legitimate]
+
+    C --> D[Redirect to Malicious Page<br>- Fake login portals<br>- Credential harvesting forms]
+
+    D --> E[Credential Theft<br>- Stolen credentials<br>- Exfiltration over web services]
+
+    E --> F[Follow-On Actions<br>- Account compromise<br>- Further phishing<br>- Unauthorized access]
+
