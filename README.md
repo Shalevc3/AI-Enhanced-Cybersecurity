@@ -1,51 +1,55 @@
-# Misuse of GenAI Platforms for Phishing – CTI Mapping Report
+# AI-Enhanced Cybersecurity – Student Repository
 
-This repository includes our submission for **Lab Work 1 – Cyber Threat Intelligence**.  
-The assignment is based on the Unit 42 article *“Fashionable Phishing Bait: GenAI on the Hook” (2025)* and focuses on how Generative AI (GenAI) tools are being misused to create phishing content quickly and at scale.
+This repository accompanies the **AI-Enhanced Cybersecurity** course at  
+**Holon Institute of Technology (HIT)**, taught by  
+**Dr. Andrei Kojukhov** and **Viacheslav Nefedov**.
 
+It contains our laboratory assignments and materials related to the final project.  
+For official course documentation and reference materials, please refer to the main course repository.
 
-## 🚀 What’s Inside
+---
 
-- **CTI_Report.docx** – The full written report, including:
-  - Short description of the activity
-  - Attack flow diagram
-  - Detailed MITRE ATT&CK mapping
-  - Key takeaways and conclusions
+## ✒️ Authors / Contributors
 
-- **Attack_Schema.drawio** – Visual diagram outlining the attack chain.
+- **[Name 1]** — [GitHub](#) | [LinkedIn](#)  
+- **[Name 2]** — [GitHub](#) | [LinkedIn](#)  
+- **[Name 3]** — [GitHub](#) | [LinkedIn](#)  
+- **[Name 4]** — [GitHub](#) | [LinkedIn](#)
 
-- **README.md** – This file, summarizing the purpose and structure of the project.
+_(Fill in or remove names as needed.)_
 
+---
 
-## 🔍 Project Overview
+## ⚙️ Final Project
 
-The Unit 42 report describes how attackers are increasingly relying on GenAI services—such as AI website builders and writing assistants—to generate phishing pages with very little effort.  
-These platforms allow anyone to create a convincing website in seconds, publish it without verification and use it to redirect victims to credential-harvesting pages.
+Information about our final course project will be added here later.  
+This section will include the project overview, design choices, datasets, and implementation documentation.
 
-Our work maps these behaviors to relevant **MITRE ATT&CK techniques**, showing how each part of the process fits into a broader threat model.
+---
 
+## 🔬 Laboratory Work
 
-## 🧩 MITRE ATT&CK Tactics Covered
+During the semester, we worked on several hands-on labs demonstrating how AI-driven techniques, modern data pipelines, and cybersecurity methodologies are used in real-world environments.
 
-- Initial Access  
-- Resource Development  
-- Execution  
-- Defense Evasion  
-- Credential Access  
-- Command and Control  
-- Impact
+The labs include practical work with:
 
-The full table with all technique IDs is included in the Word report.
+- Real CTI (Cyber Threat Intelligence) reports  
+- Network and security logs  
+- ML/NLP-based threat detection examples  
+- Data processing workflows and accelerated pipelines  
 
+These exercises build knowledge and skills applicable to SOC, CTI, and AI-enhanced cybersecurity roles.
 
-## 👥 Team Members
+---
 
-- **Shalev Cohen - 314745456 **  
-- **Noam Hadad - 314701418 **  
+## 📘 Labs Overview
 
+| Lab | Assignment | Solution | Topic | Description |
+|-----|-----------|----------|--------|-------------|
+| **1** | Lab1 Assignment | [Lab1](Labs/Lab1/) | CTI → MITRE ATT&CK Mapping | Choose a real CTI report, extract attacker behaviors, and map them to ATT&CK tactics & techniques. |
+| **2** | Lab2 Assignment | [Lab2](Labs/Lab2/) | *(To be added)* | *(To be added)* |
 
-## 📚 Reference Material
+---
 
-- Unit 42, Palo Alto Networks – Fashionable Phishing Bait: GenAI on the Hook   
-- https://unit42.paloaltonetworks.com/genai-phishing-bait/
+## 📂 Repository Structure
 
