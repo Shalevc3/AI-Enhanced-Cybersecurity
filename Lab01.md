@@ -39,14 +39,9 @@ The attack pattern typically involves:
 
 flowchart TD
 
-    A[Threat Actor<br>Uses GenAI tools<br>(AI website builders, writing assistants)]
-    --> B[Generate Phishing Website<br>- AI-built pages in seconds<br>- Brand-like text & images<br>- Hosted on legitimate platforms]
-
-    B --> C[Lure Victim<br>- “View Document” / “Show Coupon” buttons<br>- Links appear legitimate]
-
-    C --> D[Redirect to Malicious Page<br>- Fake login portals<br>- Credential harvesting forms]
-
-    D --> E[Credential Theft<br>- Stolen credentials<br>- Exfiltration over web services]
-
-    E --> F[Follow-On Actions<br>- Account compromise<br>- Further phishing<br>- Unauthorized access]
+    A[Threat Actor<br/>Uses GenAI tools] --> B[Generate Phishing Website]
+    B --> C[Lure Victim]
+    C --> D[Redirect to Malicious Page]
+    D --> E[Credential Theft]
+    E --> F[Follow-On Actions]
 
