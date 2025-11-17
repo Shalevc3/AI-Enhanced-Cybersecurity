@@ -1,8 +1,7 @@
 # AI-Enhanced Cybersecurity – Student Repository
 
 This repository accompanies the **AI-Enhanced Cybersecurity** course at  
-**Holon Institute of Technology (HIT)**, taught by  
-**Dr. Andrei Kojukhov** and **Viacheslav Nefedov**.
+**Holon Institute of Technology (HIT)**, taught by **Dr. Andrei Kojukhov** and **Viacheslav Nefedov**.
 
 It contains our laboratory assignments and materials related to the final project.  
 For official course documentation and reference materials, please refer to the main course repository.
