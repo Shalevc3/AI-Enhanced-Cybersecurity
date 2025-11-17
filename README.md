@@ -41,7 +41,7 @@ These exercises build knowledge and skills applicable to SOC, CTI, and AI-enhanc
 
 | Lab | Assignment | Solution | Topic | Description |
 |-----|-----------|----------|--------|-------------|
-| **1** | Lab1 Assignment | [Lab01](Lab01/) | CTI → MITRE ATT&CK Mapping | Choose a real CTI report, extract attacker behaviors, and map them to ATT&CK tactics & techniques. |
+| **1** | Lab1 Assignment | [Lab01](Lab01.md/) | CTI → MITRE ATT&CK Mapping | Choose a real CTI report, extract attacker behaviors, and map them to ATT&CK tactics & techniques. |
 | **2** | Lab2 Assignment | [Lab02](Labs/Lab2/) | *(To be added)* | *(To be added)* |
 
 ---
