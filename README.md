@@ -42,8 +42,8 @@ These exercises build knowledge and skills applicable to SOC, CTI, and AI-enhanc
 
 | Lab | Assignment | Solution | Topic | Description |
 |-----|-----------|----------|--------|-------------|
-| **1** | Lab1 Assignment | [Lab01](https://github.com/Shalevc3/AI-Enhanced-Cybersecurity/blob/main/Lab01.md) | CTI → MITRE ATT&CK Mapping | Choose a real CTI report, extract attacker behaviors, and map them to ATT&CK tactics & techniques. |
-| **2** | Lab2 Assignment | [Lab02](Labs/Lab2/) | *(To be added)* | *(To be added)* |
+| **1** | Lab1 Assignment | [Lab01](https://github.com/Shalevc3/AI-Enhanced-Cybersecurity/tree/main/Lab1) | CTI → MITRE ATT&CK Mapping | Choose a real CTI report, extract attacker behaviors, and map them to ATT&CK tactics & techniques. |
+| **2** | Lab2 Assignment | [Lab2](https://github.com/Shalevc3/AI-Enhanced-Cybersecurity/tree/main/Lab2) | Anomaly Detection in Cybersecurity Logs | Build a dataset, perform EDA, train Isolation Forest, and visualize anomalies in 2D.  |
 
 ---
 
